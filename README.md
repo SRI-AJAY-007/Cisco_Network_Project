@@ -211,9 +211,7 @@ AJ Industries runs an all-Cisco environment. HSRP provides tighter integration w
 
 ## Author
 
-**AJ** — Aspiring Cybersecurity Professional
-
-*Designed as part of a Masters in Cybersecurity application portfolio*
+**AJ**
 
 ---
 
